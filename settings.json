@@ -1,9 +1,0 @@
-{
-  "settings": {
-    "homerow_mods": {
-      "tapping_term_ms": 200,
-      "quick_tap_ms": 175,
-      "flavor": "tap-preferred"
-    }
-  }
-}
