@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"code": "&aaa",
+		"name": "&aaa",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
