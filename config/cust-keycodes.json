@@ -1,9 +1,20 @@
 [
 	{
-		"names": [
+		"aliases": [
 			"AAA"
 		],
 		"description": "AAA",
+		"symbol": "AAA",
+		"type": "UD",
+		"params": [],
+		"code": "AAA",
+		"isModifier": false
+	},
+	{
+		"names": [
+			"BBB"
+		],
+		"description": "BBB",
 		"clarify": false,
 		"documentation": "",
 		"os": {
